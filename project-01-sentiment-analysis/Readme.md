@@ -6,4 +6,4 @@ Tujuan utama adalah memahami sentimen yang diungkapkan oleh pengguna Twitter sel
 Dengan menganalisis sentimen—positif, netral, dan negatif—dari 1815 tweet, maka akan didapatkan wawasan tentang opini publik dan tren sentimen selama peristiwa politik.
 
 ## Code Lab
-1. [data Preprocesing & EDA](Data Preprocessing & EDA.ipynb)
+1. [data Preprocesing & EDA](data_preprocessing_n_EDA.ipynb)
