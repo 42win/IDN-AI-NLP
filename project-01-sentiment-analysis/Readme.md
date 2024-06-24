@@ -1,4 +1,5 @@
 # Project NLP 1 : Sentiment Analysis Piplres 2019
+![image](https://github.com/42win/IDN-AI-NLP/assets/55066281/fa0a1e50-e212-4130-b7d3-0da9472b213c)
 
 ## Goal
 
@@ -20,7 +21,7 @@ dataset yang digunakan adalah kumpulan data sentiiment yang berasal dari penggun
 8. [model 6 - SVM & RandomForest](Model_06_SVM_n_RandomForest_TFIDF.ipynb)
 9. [model 7 - GradientBoosting](Model_07_Gradien_Boosting.ipynb)
 
-## Hasil Evaluasi
+## Hasil Evaluasi (Accuracy)
 | model                        | training | testing |
 |------------------------------|----------|---------|
 | transformerEncoder           | 0.94     | 0.61    |
