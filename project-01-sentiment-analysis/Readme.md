@@ -5,12 +5,20 @@
 Tujuan utama adalah memahami sentimen yang diungkapkan oleh pengguna Twitter selama Pemilihan Presiden 2019 di Indonesia. 
 Dengan menganalisis sentimen—positif, netral, dan negatif—dari 1815 tweet, maka akan didapatkan wawasan tentang opini publik dan tren sentimen selama peristiwa politik.
 
-## Code Lab
+## Dataset
+dataset yang digunakan adalah kumpulan data sentiiment yang berasal dari pengguna twitter saat pelaksanaan PILPRES 2019 lalu.
+[dataset](https://github.com/42win/IDN-AI-NLP/tree/main/project-01-sentiment-analysis/dataset)
+
+## Code
 1. [data Preprocesing & EDA](data_preprocessing_n_EDA.ipynb)
-2. [model 1 - transformerEncoder](model_01_transformerEncoder.ipynb)
-3. [model 2 - indoBert](model_02_indoBert.ipynb)
-4. [model 3 - RoBERTa](model_03_RoBERTa.ipynb)
-5. [model 4 - RoBERTa](model_03_RoBERTa.ipynb)
+2. [data Preprocesing 2](data_preprocessing_2.ipynb)
+3. [model 1 - transformerEncoder](model_01_transformerEncoder.ipynb)
+4. [model 2 - indoBert](model_02_indoBert.ipynb)
+5. [model 3 - RoBERTa & LSTM](Model_03_RoBerta_n_LSTM.ipynb)
+6. [model 4 - CNN-BiLSTM](Model_04_CNN_BiLSTM.ipynb)
+7. [model 5 - BiLSTM](Model_05_Bi_LSTM.ipynb)
+8. [model 6 - SVM & RandomForest](Model_06_SVM_n_RandomForest_TFIDF.ipynb)
+9. [model 7 - GradientBoosting](Model_07_Gradien_Boosting.ipynb)
 
 ## Hasil Evaluasi
 | model                        | training | testing |
