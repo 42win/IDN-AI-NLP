@@ -34,3 +34,8 @@ dataset yang digunakan adalah kumpulan data sentiiment yang berasal dari penggun
 | SVM Classifier               | 0.93     | 0.60    |
 | Random Forest                | 0.99     | 0.58    |
 | GradientBoostingClassifier   | 0.82     | 0.56    |
+
+## Team NLP A
+- Aswin
+- [Wiliy](https://github.com/Willy030125)
+- [Rohaldi](https://github.com/rexhunter19)
